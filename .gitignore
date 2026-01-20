@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Nuxt
+front/.nuxt/
+front/.output/
+front/dist/
+
+# NestJS
+api/dist/
+api/coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.tsbuildinfo
